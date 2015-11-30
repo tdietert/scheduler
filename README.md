@@ -8,6 +8,9 @@
 
 > $ stack build
 
-> $ stack exec scheduler
+#####And then to test...
 
+> $ stack ghc test/test.hs
+
+> $ stack exec test/test
 

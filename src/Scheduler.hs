@@ -7,7 +7,6 @@ module Scheduler (
   , to
 ) where
 
--- janie's number:  850-322-3808
 import Data.Time.Calendar as Cal
 import Data.Time.Clock as Clock
 import Data.Time.LocalTime as LocT
